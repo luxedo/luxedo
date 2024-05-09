@@ -1,11 +1,12 @@
 # Hi there 👋
 
 ## 🚀 About Me
-🎓 I'm **Luiz**, a **Data Scientist** and **Developer**. My fascination with code started way back, and over 10 years, I've honed my skills in building and maintaining vision-based sensor systems.  But my true passion lies in the exciting world where AI meets the physical realm.
 
-🏆 When I need a mental challenge, I turn to the world of competitive programming and Capture the Flag (CTF) competitions.  The thrill of solving problems under pressure and the camaraderie of the competitive coding community really energize me.
+🎓 I'm **Luiz**, a **Data Scientist** and **Developer**. My fascination with code started way back, and over 10 years I've honed my skills in building and maintaining vision-based sensor systems. But my true passion lies in the exciting world where AI meets the physical realm.
 
-👨‍💻 Beyond the code, I'm a firm believer in the power of open-source communities. Contributing to open-source projects in Python, Rust, Elixir, Ruby and JavaScript fuels my fire (I've even got packages published in some of them!).  You might also find my tinkering on projects for Google, MDN, and scikit-learn – or maybe somewhere else in the vast GitHub universe.
+🏆 When I need a mental challenge, I turn to the world of competitive programming and Capture the Flag (CTF) competitions. The thrill of solving problems under pressure and the camaraderie of the competitive coding community really energize me.
+
+👨‍💻 Beyond the code, I'm a firm believer in the power of open-source communities. Contributing to open-source projects in Python, Rust, Elixir, Ruby and JavaScript fuels my fire (I've even got packages published in some of them!). You might also find my tinkering on projects for Google, MDN, and scikit-learn – or maybe somewhere else in the vast GitHub universe.
 
 When I'm not elbow-deep in code, you'll likely find me:
 
@@ -14,6 +15,8 @@ When I'm not elbow-deep in code, you'll likely find me:
 * 🍔 Whipping up delicious meals: Food is more than just sustenance – it's an experience! I love experimenting in the kitchen and sharing my culinary creations with friends and family.
 
 * ✈️ Venturing off on new travel adventures: The world is a vast and exciting place, and I'm always eager to explore new cultures, landscapes, and experiences.
+
+* 🏃🏻‍♂️ Enjoying a good challenge: running offers a chance to truly push me forward. Each stride pushes me past my perceived limits. Every run is a battle, a test of my will, leaving me exhilarated by the victories I achieve.
 
 <a href="https://www.linkedin.com/in/luiz-nishino-amaral/" target="blank">Let's chat! Contact me at &nbsp; <img src="LI-In-Bug.png"  width="30"></img></a>
 
